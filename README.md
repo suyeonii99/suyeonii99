@@ -12,8 +12,8 @@
 <h3 align="center"> ⭐ Tech Stack ⭐ </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E6B91E?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-6DB33F?style=flat-square&logo=css&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Javascript-6DB33F?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-6DB33F?style=flat-square&logo=css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-6DB33F?style=flat-square&logo=javascript&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/React-F80000?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 </p> <br>
