@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header)
 </div>
 <h3 align="center"> 🧸 Welcome Suyeon's GitHub 🧸 </h3>
-<p align="center"> I'm a Front-End Developer. 👩🏻‍💻 </p>
+<p align="center"> Front-End Developer. 👩🏻‍💻 </p>
 
 <div align="center">
             
