@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-            
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header)
 </div>
-<h3 align="center"> Hi there 👋 </h3>
+
 <p align="center">I'm a Front-End Developer. 🌱</p>
 <div align="center">
             
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
 
   
 <a href="mailto:shinsuyeon0424@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2suyeonii99%2Fhit-counter&count_bg=%23454A41&title_bg=%23D32A6C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyeonii99%2Fhit-counter&count_bg=%23454A41&title_bg=%23D32A6C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
